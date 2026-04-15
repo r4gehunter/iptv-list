@@ -301,18 +301,8 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19058.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19059.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 20" tvg-logo="https://i.imgur.com/IFYcGqV.png" group-title="Canais | Esportes",Disney+ 20
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19060.ts
-#EXTINF:-1 tvg-id="329" tvg-name="NSports FHD" tvg-logo="https://i.imgur.com/XqPDvpx.png" group-title="Canais | Esportes",NSports FHD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19064.ts
-#EXTINF:-1 tvg-id="329" tvg-name="NSports HD" tvg-logo="https://i.imgur.com/XqPDvpx.png" group-title="Canais | Esportes",NSports HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19065.ts
-#EXTINF:-1 tvg-id="329" tvg-name="NSports SD" tvg-logo="https://i.imgur.com/XqPDvpx.png" group-title="Canais | Esportes",NSports SD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19066.ts
-#EXTINF:-1 tvg-id="" tvg-name="CazeTV 01" tvg-logo="https://i.imgur.com/A6ojKzi.png" group-title="Canais | Esportes",CazeTV 01
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19068.ts
-#EXTINF:-1 tvg-id="" tvg-name="CazeTV 02" tvg-logo="https://i.imgur.com/A6ojKzi.png" group-title="Canais | Esportes",CazeTV 02
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19069.ts
-#EXTINF:-1 tvg-id="" tvg-name="CazeTV 03" tvg-logo="https://i.imgur.com/A6ojKzi.png" group-title="Canais | Esportes",CazeTV 03
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19070.ts
+#EXTINF:-1 tvg-id="" tvg-name="[BR] FLA TV+ FHD" tvg-logo="https://i.imgur.com/uQRuqPu.png" group-title="BRAZIL",[BR] FLA TV+ FHD
+http://supersonictv.live:8080/006943/072377/85179
 #EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://i.imgur.com/oDondsN.png" group-title="Canais | Esportes",Paramount+ 1
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19071.ts
 #EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2" tvg-logo="https://i.imgur.com/oDondsN.png" group-title="Canais | Esportes",Paramount+ 2
