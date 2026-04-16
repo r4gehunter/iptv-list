@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="https://raw.githubusercontent.com/r4gehunter/iptv-list/refs/heads/main/filmes-iptv"
 
 #EXTINF:-1 tvg-name="¡Casa Bonita Mi Amor! [L]" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/shr69Fg4Kzl8yBHLZw8JFK5xns8.jpg" group-title="Filmes | Legendados",¡Casa Bonita Mi Amor! [L]
 http://sinalmycn.com/movie/632035/GqGcFV4ntu/670590.mp4
