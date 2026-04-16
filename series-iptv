@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="https://raw.githubusercontent.com/r4gehunter/iptv-list/refs/heads/main/series-iptv"
 
 #EXTINF:-1 tvg-name="(A)mar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nRIB3yq39Z5zbvTYl24nUI5L1Ye.jpg" group-title="Series | Netflix",(A)mar
 http://sinalmycn.com/series/632035/GqGcFV4ntu/4079.mp4
