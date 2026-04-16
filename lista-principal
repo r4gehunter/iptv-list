@@ -311,18 +311,6 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19072.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19073.ts
 #EXTINF:-1 tvg-id="92" tvg-name="Paramount+ 4" tvg-logo="https://i.imgur.com/oDondsN.png" group-title="Canais | Esportes",Paramount+ 4
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19074.ts
-#EXTINF:-1 tvg-id="19080" tvg-name="Canal Goat 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalgoat.png" group-title="Canais | Esportes",Canal Goat 01
-http://sinalmycn.com/live/632035/GqGcFV4ntu/19080.ts
-#EXTINF:-1 tvg-id="19081" tvg-name="Canal Goat 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalgoat.png" group-title="Canais | Esportes",Canal Goat 02
-http://sinalmycn.com/live/632035/GqGcFV4ntu/19081.ts
-#EXTINF:-1 tvg-id="19082" tvg-name="Canal Goat 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalgoat.png" group-title="Canais | Esportes",Canal Goat 03
-http://sinalmycn.com/live/632035/GqGcFV4ntu/19082.ts
-#EXTINF:-1 tvg-id="19003" tvg-name="UFC FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/ufc.png" group-title="Canais | Esportes",UFC FHD
-http://sinalmycn.com/live/632035/GqGcFV4ntu/19003.ts
-#EXTINF:-1 tvg-id="19004" tvg-name="UFC HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/ufc.png" group-title="Canais | Esportes",UFC HD
-http://sinalmycn.com/live/632035/GqGcFV4ntu/19004.ts
-#EXTINF:-1 tvg-id="19005" tvg-name="UFC SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/ufc.png" group-title="Canais | Esportes",UFC SD
-http://sinalmycn.com/live/632035/GqGcFV4ntu/19005.ts
 
 ############## Canais ESPN #################
 #EXTINF:-1 tvg-id="29" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/e46GEdF.png" group-title="Canais | ESPN",ESPN FHD
