@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/r4gehunter/iptv-list/refs/heads/main/canais.m3u"
 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/r4gehunter/iptv-list/refs/heads/main/tvcomcafe.m3u"
-
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="101 DALMATAS" tvg-logo="http://srvlogo.07d994.co/cover/1/101.png" group-title="Canais | 24 Hrs",101 DALMATAS
 http://hendreo.net:80/live/xgYXvFYPAp/L69KvGHY2R/98660.ts
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Família Dinossauros 24 HS" tvg-logo="http://srvlogo.07d994.co/cover/1/dinossauro.png" group-title="Canais | 24 Hrs",A Família Dinossauros 24 HS
